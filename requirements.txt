@@ -1,0 +1,6 @@
+cv2
+skimage
+numpy
+matplotlib
+sklearn
+ipywidgets
