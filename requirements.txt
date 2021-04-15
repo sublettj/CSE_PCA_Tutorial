@@ -1,4 +1,4 @@
-opencv-contrib-python
+opencv_contrib_python==4.2.0.32
 scikit-image
 numpy
 matplotlib
