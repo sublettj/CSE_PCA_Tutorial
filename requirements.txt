@@ -1,6 +1,6 @@
 opencv-python
-skimage
+scikit-image
 numpy
 matplotlib
-sklearn
+scikit-learn
 ipywidgets
